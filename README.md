@@ -1,2 +1,3 @@
-要求： ≥python3.11.x \n
+要求： ≥python3.11.x
+
 python obfuscator_adv.py  <source.py>
